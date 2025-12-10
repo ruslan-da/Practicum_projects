@@ -1,4 +1,5 @@
-# Practicum projects. The projects done by me from Yandex.Practicum course.
+# Practicum projects.
+The projects done by me from Yandex.Practicum course.
 
 
 
