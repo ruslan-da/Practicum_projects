@@ -1,10 +1,9 @@
 # Practicum projects. The projects done by me from Yandex.Practicum course.
 
 
-<a href="/ruslan-da/Practicum_projects/tree/main/Practicum_projects">
-Practicum Final Project - EDA - Online tickets service 2024
-</a>
-<br>
+
+## Practicum Final Project - EDA - Online tickets service 2024
+
 <img width="691" height="332" alt="image" src="https://github.com/user-attachments/assets/db54947c-89c4-4c65-90d8-0fc3dd5a6486" />
 
 
