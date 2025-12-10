@@ -1,8 +1,13 @@
 # Practicum projects. The projects done by me from Yandex.Practicum course.
 
-## Practicum Final Project - EDA - Online tickets service 2024
+
+<a href="/ruslan-da/Practicum_projects/tree/main/Practicum_projects">
+Practicum Final Project - EDA - Online tickets service 2024
+</a>
 
 <img width="691" height="332" alt="image" src="https://github.com/user-attachments/assets/db54947c-89c4-4c65-90d8-0fc3dd5a6486" />
+
+
 
 Иследовательский анализ данных в Python для крупного сервиса онлайн покупки билетов в России.
 
